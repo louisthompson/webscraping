@@ -1,2 +1,2 @@
 # webscraping
-Repo containing all webscraping projects
+This repo contains personal webscraping projects
